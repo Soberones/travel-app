@@ -1,0 +1,29 @@
+.large {
+  display: grid;
+  place-items: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #fd6d25;
+  color: #fcf3f3;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.small {
+  width: max-content;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: grid;
+  place-items: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: #f2b201;
+  color: #000;
+  border-radius: 10px;
+}
+
+.button {
+  margin-top: 22px;
+}

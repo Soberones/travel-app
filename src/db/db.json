@@ -1,0 +1,272 @@
+{
+  "popular":
+  [
+      {
+          "label": "Lisabon",
+          "description": "Lisbon is one of the oldest cities in the world, and the second-oldest European capital city (after Athens), predating other modern European capitals by centuries.",
+          "id": 1,
+          "image": "https://i12.fotocdn.net/s115/7128a171634cebf0/public_pin_l/2609168557.jpg"
+      },
+      {
+          "label": "Madrid",
+          "description": "Madrid is the capital of Spain, and is home to the Spanish Royal family as well as the Spanish Government. It is a modern metropolitan city and an economical and industrial center of Spain, and, with its population of nearly 3,5 million people, is also the biggest city in Spain..",
+          "id": 2,
+          "image": "https://espanarusa.com/files/autoupload/89/95/79/ss31bnyb366155.jpg"
+      },
+      {
+          "label": "Alkatras",
+          "description": "Custom label to be used by screen readers. When provided, an aria-label will be added to the element.",
+          "id": 3,
+          "image": "https://avatars.mds.yandex.net/get-zen_doc/203431/pub_5c8642cdbc0ee200b3eaeb70_5c8688a7dbfb6c00b591cbb9/scale_1200"
+      },
+      {
+          "label": "Chikago",
+          "description": "Custom label to be used by screen readers. When provided, an aria-label will be added to the element.",
+          "id": 4,
+          "image": "https://img1.goodfon.ru/original/2560x1440/7/3e/chicago-ssha-doma-neboskreb.jpg"
+      }
+  ],
+  "HotelsLisabon":
+  [
+      {
+          "label": "Urbano FLH Hotels Lisboa",
+          "adress": "Lihhdy av. 1-76",
+          "id": 1,
+          "price": 150,
+          "place": "Praça Martim Moniz 2, Санта-Мария-Майор, 1100-341 Лиссабон, Португалия",
+          "image": "https://static.tourvisor.ru/hotel_pics/big/35/hf-fenix-lisboa-121.jpg"
+      },
+      {
+          "label": "H10 Duque de Loule",
+          "adress": "Lowasd 9837/3",
+          "id": 2,
+          "price": 71,
+          "place": "Moniz paula",
+          "image": "https://i.travelapi.com/hotels/17000000/16550000/16542000/16541976/411d47f7_b.jpg"
+      },
+      {
+          "label": "Rossio Garden Hotel",
+          "adress": "Pusskina 18",
+          "id": 3,
+          "price": 30,
+          "place": "Praça 334",
+          "image": "https://files.tpg.ua/files/hotels/000028707/51898068.jpg"
+      },
+      {
+          "label": "TRYP Lisboa Aeroporto",
+          "adress": "Snowers 1-6",
+          "id": 4,
+          "price": 150,
+          "place": "Praça Martim Moniz 24",
+          "image": "https://i.travelapi.com/hotels/1000000/660000/658100/658037/c0a07ac9_z.jpg"
+      }
+  ],
+  "HotelsMadrid":
+  [
+      {
+          "label": "Gran Melia Palacio",
+          "adress": "Cuesta de Santo Domingo, 5",
+          "id": 1,
+          "price": 145,
+          "place": "Praça Martim Moniz 2, Санта-Мария-Майор, 1100-341 Лиссабон, Португалия",
+          "image": "https://q-xx.bstatic.com/images/hotel/max1024x768/109/109287530.jpg"
+      },
+      {
+          "label": "Only YOU Boutique",
+          "adress": "City center",
+          "id": 2,
+          "price": 71,
+          "place": "Moniz paula",
+          "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/205/205065474.jpg"
+      },
+      {
+          "label": "Rossio Garden Hotel",
+          "adress": "City center",
+          "id": 3,
+          "price": 30,
+          "place": "Praça 334",
+          "image": "https://files.tpg.ua/files/hotels/000028707/51898068.jpg"
+      },
+      {
+          "label": "TRYP Lisboa Aeroporto",
+          "adress": "City center",
+          "id": 4,
+          "price": 150,
+          "place": "Praça Martim Moniz 24",
+          "image": "https://i.travelapi.com/hotels/1000000/660000/658100/658037/c0a07ac9_z.jpg"
+      }
+  ],
+  "HotelsAlkatras":
+  [
+      {
+          "label": "Pirson 1",
+          "adress": "City center",
+          "id": 1,
+          "price": 145,
+          "place": "Praça Martim Moniz 2, Санта-Мария-Майор, 1100-341 Лиссабон, Португалия",
+          "image": "https://img1.goodfon.ru/original/1920x1200/a/ce/tyurma-kamera-interer-4690.jpg"
+      },
+      {
+          "label": "Pirson 2",
+          "adress": "City center",
+          "id": 2,
+          "price": 71,
+          "place": "Moniz paula",
+          "image": "https://politika-v-rashke.ru/wp-content/uploads/2019/03/alkatras-vnutri.png"
+      },
+      {
+          "label": "Pirson 3",
+          "adress": "City center",
+          "id": 3,
+          "price": 30,
+          "place": "Praça 334",
+          "image": "https://architectureguru.ru/wp-content/uploads/2019/07/alcatraz-prison-4.jpg"
+      },
+      {
+          "label": "Pirson 4",
+          "adress": "City center",
+          "id": 4,
+          "price": 99999,
+          "place": "Praça Martim Moniz 24",
+          "image": "https://i.travelapi.com/hotels/1000000/660000/658100/658037/c0a07ac9_z.jpg"
+      }
+  ],
+  "HotelsChikago":
+  [
+      {
+          "label": "Gran Melia Palacio",
+          "adress": "Cuesta de Santo Domingo, 5",
+          "id": 1,
+          "price": 145,
+          "place": "Praça Martim Moniz 2, Санта-Мария-Майор, 1100-341 Лиссабон, Португалия",
+          "image": "https://q-xx.bstatic.com/images/hotel/max1024x768/109/109287530.jpg"
+      },
+      {
+          "label": "Only YOU Boutique",
+          "adress": "City center",
+          "id": 2,
+          "price": 71,
+          "place": "Moniz paula",
+          "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/205/205065474.jpg"
+      },
+      {
+          "label": "Rossio Garden Hotel",
+          "adress": "City center",
+          "id": 3,
+          "price": 30,
+          "place": "Praça 334",
+          "image": "https://files.tpg.ua/files/hotels/000028707/51898068.jpg"
+      },
+      {
+          "label": "TRYP Lisboa Aeroporto",
+          "adress": "City center",
+          "id": 4,
+          "price": 150,
+          "place": "Praça Martim Moniz 24",
+          "image": "https://i.travelapi.com/hotels/1000000/660000/658100/658037/c0a07ac9_z.jpg"
+      }
+  ],
+  "sightMadrid":
+  [
+      {
+          "label": "Prado Museum",
+          "id": 1,
+          "image": "https://www.planetware.com/photos-large/E/spain-madrid-prado-museum.jpg",
+          "description": "A truly world-class museum, the Prado Museum has a collection of more than 5,000 paintings that rivals the Louvre collection in Paris. Spanish paintings from the 12th century to the early 19th century form the majority of the collection, and many are famous masterpieces. The assortment of paintings by Francisco de Goya includes a remarkable 140 works. The collection also covers Italian, Flemish, French, British, and German paintings as well as Neoclassical Italian sculptures.",
+          "adress": "Paseo del Prado, Madrid"
+      },
+      {
+          "label": "Buen Retiro Park and the Crystal Palace",
+          "id": 2,
+          "image": "https://www.planetware.com/photos-large/E/palacio-de-cristal-parque-del-retiro.jpg",
+          "description": "The Buen Retiro Park (Parque del Retiro) is an oasis of peace in the heart of Madrid. Just beyond the busy streets, this lush 120-hectare park offers an escape from the hustle and bustle of the city. Created for the Count-Duke of Olivares in the 17th century, the historic park has an elegant ambience with its lovely landscaping and tree-lined paths. From the main entrance at the Plaza de Independencia, visitors arrive at the pool in the center of the park. From here, paths lead to the enchanting Rosaleda",
+          "adress": "Buen Retiro Park"
+      },
+      {
+          "label": "Royal Palace and Gardens",
+          "id": 3,
+          "image": "https://www.planetware.com/photos-large/E/royal-palace-0.jpg",
+          "description": "This grandiose palace is the Spanish version of Versailles, a royal court designed to impress. Rising above a steep slope overlooking the lush gardens, the palace is built entirely of granite and white Colmenar stone. The palace was commissioned by Philip V in the 18th century. The majestic Neoclassical facade features Ionic columns and Doric pilasters, based on drawings that the sculptor Bernini originally intended for the Louvre in Paris. The balustrade features statues of Spanish kings.",
+          "adress": "Calle Bailén, Madrid"
+      }
+  ],
+  "sightLisabon":
+  [
+      {
+          "label": "Sintra",
+          "id": 1,
+          "image": "https://www.planetware.com/photos-large/P/portugal-lisbon-day-trips-sintra.jpg",
+          "description": "Arguably the most rewarding day trip from Lisbon is to Sintra. About 30 kilometers northwest of the city center, the town is easily reached by train with direct connections operating daily out of Lisbon's Rossio railway station. The journey takes around 40 minutes. Sintra's rugged, verdant beauty; its ancient castle; and collection of historic palaces are recognized as a UNESCO World Heritage cultural landscape.",
+          "adress": "0 kilometers northwest of the city center"
+      },
+      {
+          "label": "Palácio Nacional de Queluz",
+          "id": 2,
+          "image": "https://www.planetware.com/photos-large/P/portugal-lisbon-day-trips-palacio-nacional-de-quelez.jpg",
+          "description": "Originally designed by Mateus Vicente, a pupil of Johann Friedrich Ludwig, who built the Mosteiro Pálacio Nacional de Mafra, the Palácio Nacional de Queluz is a landmark of both Portuguese architecture and landscape design, although French architect Jean-Baptiste Robillon later added lavish interior flourishes and the formal gardens.",
+          "adress": "Largo do Palácio, Queluz"
+      },
+      {
+          "label": "Cascais",
+          "id": 3,
+          "image": "https://www.planetware.com/photos-large/P/cascais.jpg",
+          "description": "The lively coastal resort of Cascais lies 25 kilometers west of Lisbon. It's a popular day trip destination for residents and visitors alike and is conveniently located at the end of the Cais do Sodré-Cascais railway line. The excursion itself is a pleasant experience, with the line hugging the coast, and trains calling at various seaside towns along the way, including Carcavelos and Estoril.",
+          "adress": "25 kilometers west of Lisbon"
+      }
+  ],
+  "sightChikago":
+  [
+      {
+          "label": "Millennium Park",
+          "id": 1,
+          "image": "https://media.timeout.com/images/105436047/1024/768/image.jpg",
+          "description": "This vast 24.5-acre section of Chicago’s front yard is one of the most popular places to spend time outdoors in the city, hosting well-known pieces of public art and a long list of special events.",
+          "adress": "Michigan Avenue and Madison Street"
+      },
+      {
+          "label": "Art Institute of Chicago",
+          "id": 2,
+          "image": "https://media.timeout.com/images/102850781/1024/768/image.jpg",
+          "description": "Acquaint yourself with classic paintings like Georges Seurat’s A Sunday on La Grande Jatte (as seen in Ferris Bueller’s Day Off) and Grant Wood's American Gothic, or explore an expansive collection of contemporary works in the museum’s Modern Wing. Check the museum's website for more information on temporary exhibitions.",
+          "adress": "City center"
+      },
+      {
+          "label": "Lincoln Park Zoo",
+          "id": 3,
+          "image": "https://media.timeout.com/images/103442541/1024/768/image.jpg",
+          "description": "Located in the middle of Lincoln Park, this 35-acre zoo houses more than 1,000 animals and is one of the few remaining free zoos in the country.",
+          "adress": "Lincoln av"
+      }
+  ],
+  "sightAlkatras":
+  [
+      {
+          "label": "Alkartas sight",
+          "id": 1,
+          "image": "https://images.rove.me/w_1920,q_85/aq7qdszyvtjlet43dx2w/san-francisco-alcatraz.jpg",
+          "description": "Just pirson",
+          "adress": "In Ocean near California"
+      },
+      {
+          "label": "Alkartas sight",
+          "id": 2,
+          "image": "https://avatars.mds.yandex.net/get-zen_doc/203431/pub_5c8642cdbc0ee200b3eaeb70_5c8688a7dbfb6c00b591cbb9/scale_1200",
+          "description": "Just pirson",
+          "adress": "In Ocean near California"
+      },
+      {
+          "label": "Alkartas sight",
+          "id": 3,
+          "image": "https://avatars.mds.yandex.net/get-pdb/1748816/3cafc308-093f-4f35-b481-590567c52a94/s1200?webp=false",
+          "description": "Just pirson",
+          "adress": "In Ocean near California"
+      },
+      {
+          "label": "Alkartas sight",
+          "id": 4,
+          "image": "https://lentachel.ru/netcat_files/Image/foto/2019/03/01/d6b28d5a120693a880c3484289fe0c19/Tyur_ma_Al_katras.jpg",
+          "description": "Just pirson",
+          "adress": "In Ocean near California"
+      }
+  ]
+}
